@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Aniss Zakari  
 
 🚀 **Lead Data Scientist** | **AI & Machine Learning Expert**  
-📍 France | 🔬 Passionate about **Gen AI, NLP, Mobility Analytics, Predictive Modeling and Cloud**  
+📍 France | 🔬 Passionate about **Gen AI, NLP, Geo Analytics, Predictive Modeling and Cloud**  
 
 ## 🔍 About Me  
 With **5+ years of experience** in **Machine Learning, Deep Learning, and AI-driven analytics**,  
